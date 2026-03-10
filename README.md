@@ -39,7 +39,7 @@ The dataset contains **180 customer purchase records** with the following attrib
 * **NumPy**
 * **Matplotlib**
 * **Seaborn**
-* **Jupyter Notebook / Google Colab**
+* **Google Colab**
 
 ---
 
@@ -211,10 +211,10 @@ aerofit-customer-analysis
 │   └── Aerofit.csv
 │
 ├── notebooks
-│   └── aerofit_analysis.ipynb
+│   └── Aerofit_EDA_Viz_notebook.ipynb
 │
-├── images
-│   └── visualizations
+├── Report
+│   └── Aerofit_Business Recommandations.pdf
 │
 └── README.md
 ```
